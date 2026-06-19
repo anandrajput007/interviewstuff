@@ -1,0 +1,23 @@
+# Ignore everything by default
+*
+
+# Keep this file
+!.gitignore
+
+# Allow documents
+!*.pdf
+!*.doc
+!*.docx
+!*.txt
+
+# Allow images
+!*.png
+!*.jpg
+!*.jpeg
+!*.gif
+!*.bmp
+!*.webp
+!*.svg
+
+# Allow folders so Git can traverse into them
+!*/
